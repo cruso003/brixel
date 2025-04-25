@@ -95,8 +95,6 @@ export default function Home() {
     "A vessel for transformation",
     "Building tomorrow's Liberia",
     "Innovation brick by brick",
-    "Construction reimagined for Liberia",
-    "Crafting Liberia's digital foundations",
   ];
 
   // Phrase cycling effect
